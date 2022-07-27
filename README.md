@@ -1,26 +1,11 @@
-## Engineer Recruitment Challenge
+# engineering-recruitment-challenges
 
-Clone this folder
+A repository of engineering challenges for contingent labour interviews.
 
-### An project deploy React Application with Nginx
+## Repository structure
 
-Steps:
-
-Explain `Dockerfile`
-
-Explain `compose.yaml`
-
-Deploy using `docker compose` to run in background
-
-View React application that has been deployed
-
-List all containers running
-
-Pull logs from any container
-
-Exec into nginx container and explain container contents
-
-Exit container
-
-Stop and remove the containers
-
+| Directory    | Description                                                |
+|--------------|------------------------------------------------------------|
+| `docker/`    | Contains a container technical challenge using Docker.     |
+| `scripting/` | Contains a scripting technical challenge.                  |
+| `terraform/` | Contains a Infrastructure-as-Code challeng using Terraform |

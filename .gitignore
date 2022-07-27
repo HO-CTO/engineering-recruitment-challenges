@@ -1,2 +1,12 @@
-.vscode
-node_modules/
+.DS_Store
+*Gemfile.lock
+
+# Any temporary
+**/.tmp
+
+# IntelliJ IDEA
+.idea
+*.iws
+*.iml
+*.ipr
+/.idea/
